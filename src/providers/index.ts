@@ -8,7 +8,7 @@ import {
 } from "@elizaos/core";
 import { OctavPortfolioBalance } from "../types";
 
-const OCTAV_API_URL = "https://backend-dev-api.octav.fi";
+const OCTAV_API_URL = "https://api.octav.fi";
 
 export const octavProvider: Provider = {
   name: "octav",
