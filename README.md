@@ -13,7 +13,7 @@ A powerful ElizaOS plugin for fetching real-time portfolio balances across multi
 ### Installation
 
 ```bash
-bun add // TODO
+bun add plugin-octav
 ```
 
 ### Basic Setup
@@ -34,7 +34,7 @@ Add to your character's `plugins` array:
 
 ```json
 {
-  "plugins": [""] // TODO
+  "plugins": ["plugin-octav"]
 }
 ```
 
