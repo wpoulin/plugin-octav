@@ -1,0 +1,28 @@
+{
+  "name": "plugin-octav",
+  "version": "0.1.0",
+  "description": "Fetch blockchain data using Octav API",
+  "type": "module",
+  "platform": "node",
+  "runtimeVersion": "1.5.7",
+  "repository": "git+https://github.com/wpoulin/plugin-octav.git",
+  "maintainers": [
+    "wpoulin"
+  ],
+  "publishedAt": "2025-09-16T03:31:53.246Z",
+  "publishedBy": "wpoulin",
+  "dependencies": {
+    "@elizaos/core": "1.5.7",
+    "@elizaos/plugin-openai": "1.0.11",
+    "zod": "^3.24.4"
+  },
+  "tags": [
+    "plugin",
+    "elizaos",
+    "octav",
+    "portfolio",
+    "defi",
+    "blockchain"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,23 @@
+{
+  "v1": {
+    "packages": {}
+  },
+  "v2": {
+    "packages": {
+      "plugin-octav": {
+        "name": "plugin-octav",
+        "description": "Fetch blockchain data using Octav API",
+        "type": "module",
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "runtimeVersion": "1.5.7",
+            "platform": "node",
+            "publishedAt": "2025-09-16T03:31:53.246Z",
+            "published": false
+          }
+        }
+      }
+    }
+  }
+}
